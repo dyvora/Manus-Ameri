@@ -1,0 +1,33 @@
+Roadmap
+
+Phase 0 – Pre-launch alignment
+Pre-launch marketing foundation:
+1. Finalize brand identity, waitlist landing page, analytics, CRM, and automation tooling to support the initial outreach plan.
+2. Recruit beta testers from civic groups, universities, and online communities while preparing a comprehensive press kit for launch storytelling.
+3. Define messaging pillars and voice guidelines to ensure all pre-launch materials reinforce clarity, empowerment, and trust for the target personas.
+
+Phase 1 – MVP application build
+Deliver single-file React MVP:
+1. Implement the single-page App.jsx experience with Tailwind via CDN, using hooks to manage navigation between Home, Profile, and Calendar states.
+2. Integrate Google Civic Information API for address lookups, establishing loading and error handling states for reliability.
+3. Build Profile view to fetch ProPublica and News API data, presenting summaries and recent news tabs with responsive design standards.
+4. Populate Calendar view with static federal election milestones and ensure navigation coherence across the app.
+
+Phase 2 – Launch readiness
+Coordinate launch campaign:
+1. Produce launch blog, press release, webinar, and social activations timed with product release, aligning with #KnowYourRep messaging.
+2. Set referral incentives and onboarding flows, incorporating tooltips or email drips to highlight core features at first use.
+3. Prepare tracking dashboards covering acquisition, engagement, and retention metrics for launch day baselines.
+
+Phase 3 – Post-launch growth (Months 1-6)
+Scale audience and partnerships:
+1. Execute weekly content marketing and SEO initiatives targeting civic literacy themes while optimizing metadata and load performance.
+2. Run targeted paid campaigns around key political events and deploy retargeting to recover drop-offs at profile view stage.
+3. Secure partnerships with educators, nonprofits, and libraries, delivering co-branded toolkits and onboarding cohorts for advocacy programming.
+4. Launch feedback loops inside the product and via surveys to collect qualitative insights for backlog prioritization.
+
+Phase 4 – Measurement & iteration (Months 6-12)
+Optimize product-market fit:
+1. Conduct quarterly KPI reviews with marketing and product teams, refining channel mix and feature roadmap based on analytics and user feedback.
+2. Expand nationwide media outreach and advanced personalization features (e.g., alerts) informed by usage data and partnership learnings.
+3. Maintain governance around data accuracy, neutrality, and privacy to protect brand trust as scale increases.
